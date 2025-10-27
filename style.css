@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(188, 163, 214);
+    color:white;
+    font-family: "Comfortaa", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 15;
+}
+
+button {
+    background-color: rgb(156, 124, 186);
+    color: white;
+    font-family: "Comfortaa", sans-serif;
+    
+}
